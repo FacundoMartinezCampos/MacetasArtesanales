@@ -1,4 +1,5 @@
-.botonmercadopago {
-    z-index: 1000;
-  
-  }
+.mercadopago {
+  z-index: 1;
+  background-color: white;
+  position: relative;
+}
