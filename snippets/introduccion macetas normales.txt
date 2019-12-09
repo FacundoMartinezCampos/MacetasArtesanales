@@ -1,0 +1,9 @@
+<section class="page-section" id="services">
+    <div class="container">
+      <h2 class="text-center mt-0">Macetas Artesanales</h2>
+      <hr class="divider my-4">
+      <div class="text-center">
+       <p>Piramidales, cuadradas y rectangulares</p>     
+     </div>
+    </div>
+  </section>
